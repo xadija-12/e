@@ -1,0 +1,130 @@
+
+
+.sarlavha {
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    border-radius: 20px;
+    border: 3px solid red;
+
+}
+
+.oo1 {
+    color: red;
+}
+
+.oo2 {
+    color: green;
+    font-size: 24px;
+
+}
+
+
+ul li {
+    font-size: 18px;
+}
+
+.link1 {
+    color: green;
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.link5{
+    width: 38%;
+    height: auto;
+}
+
+.link3 {
+
+    text-align: center;
+    background-color: black;
+    
+    border-radius: 15px;
+}
+
+#yashil4{
+    color: green;
+}
+
+
+
+
+
+textarea {
+    width: 70%;             
+    height: 45px;           
+    font-size: 16px;         
+}
+
+.matn2{
+    background-color: rgb(66, 135, 158);
+    width: 20%;
+    height: 40px;
+    border: none;
+    color: white;
+    font-size: larger;
+}
+
+table{
+    border: 2px solid green;
+    border-collapse: collapse;
+
+
+}
+
+th, td{
+    color: white;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding: 15px;
+
+    width: 80%; 
+}
+
+.yashil{
+    background-color: green;
+    width: 20%;
+}
+
+.kok{
+    background-color: blue;
+   width: 60%;
+   text-align: center;
+}
+
+.qizil{
+    background-color: red;
+    width: 20%;
+    text-align: center;
+}
+.qora{
+    background-color: black;
+    width: 60%;
+    text-align: center;
+}
+
+
+h1 { background: lightblue; padding: 15px; }
+
+
+th, td{
+ padding: 10px;
+}
+
+
+table{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
